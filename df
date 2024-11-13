@@ -1,0 +1,11 @@
+[33mcommit 259db0c674a292e7ff2e2ef6aa4b46b490473ec8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: lhs <fantasytotal@naver.com>
+Date:   Tue Nov 12 16:31:50 2024 +0900
+
+    2. 프록시패턴
+
+[33mcommit bc80c98433ce584a8ffeb60334f5c5e37a78d6cb[m
+Author: lhs <fantasytotal@naver.com>
+Date:   Tue Nov 12 15:25:56 2024 +0900
+
+    1. 전략패턴완료

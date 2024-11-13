@@ -1,11 +1,9 @@
-package ch03;
+package ch04;
 
 public abstract class Animal {
-    private String name;
+    String name;
 
-    protected Animal(){}
-
-    protected Animal(String name) {
+    Animal(String name) {
         this.name = name;
     }
 
